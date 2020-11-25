@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\bin\Debug\netcoreapp3.1\CardGame.exe
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\bin\Debug\netcoreapp3.1\CardGame.deps.json
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.json
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\bin\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\bin\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfo.cs
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\obj\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\obj\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\Jason\source\repos\CodingChallenge\CardGame\obj\Debug\netcoreapp3.1\CardGame.csprojAssemblyReference.cache
