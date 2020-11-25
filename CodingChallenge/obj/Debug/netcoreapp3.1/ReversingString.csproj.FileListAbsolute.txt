@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\ReversingString.exe
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\ReversingString.deps.json
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\ReversingString.runtimeconfig.json
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\ReversingString.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\ReversingString.dll
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\ReversingString.pdb
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\ReversingString.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\ReversingString.AssemblyInfo.cs
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\ReversingString.dll
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\ReversingString.pdb
+C:\Users\Jason\source\repos\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\ReversingString.csprojAssemblyReference.cache
