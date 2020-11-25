@@ -1,0 +1,3 @@
+C:\Users\Jason\source\repos\CodingChallenge\CardGameTests\obj\Debug\netcoreapp3.1\CardGameTests.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\CodingChallenge\CardGameTests\obj\Debug\netcoreapp3.1\CardGameTests.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\CodingChallenge\CardGameTests\obj\Debug\netcoreapp3.1\CardGameTests.AssemblyInfo.cs
